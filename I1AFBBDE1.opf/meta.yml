@@ -1,0 +1,37 @@
+id: I1AFBBDE1
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T19:54:09.446184'
+last_modified: '2022-06-18T19:54:09.446196'
+parser: null
+source_metadata:
+  title: A khu ching Shes rab rgya mtshos list of some rare books
+  author: ཨ་ཁུ་ཆིང་ཤེས་རབ་རྒྱ་མཚོ།
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2020-09-27);
+    entry numbers and line breaks encoded, first revision completed, no thematic TEI
+    markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:ཡེ་ཤེས། (Gongkar Choede, Dehradun) (ye)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/24
+  bases:
+    bcab:
+      title: A khu ching Shes rab rgya mtshos list of some rare books
+      order: 1
+      base_file: bcab.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
